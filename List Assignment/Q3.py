@@ -1,7 +1,7 @@
-def Find__ME(list, key):
+def Find__ME(list, numtofind):
     
     for i, item in enumerate(list):
-        if item == key:
+        if item == numtofind:
             return True
     return False
 
