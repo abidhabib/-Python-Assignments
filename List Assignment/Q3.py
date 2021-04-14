@@ -1,8 +1,8 @@
-def Find__ME(list, numtofind):
+def Find__ME(list, numToFind):
     
-    for i, num in enumerate(list):
-        if num == numtofind:
+    for i, item in enumerate(list):
+        if item == numToFind:
             return True
     return False
-
-print(Find__ME([4,5,2,7,1,8],71))
+xx=int(input("Enter"))
+print(Find__ME([4,5,2,71,1,8],xx))
