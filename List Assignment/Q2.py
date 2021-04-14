@@ -7,5 +7,5 @@ while True:
     elif x==2:
         my_list2.reverse()
         print(my_list2)
-    else:
+    elif x==0:
         quit()
