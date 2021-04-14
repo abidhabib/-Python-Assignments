@@ -8,7 +8,7 @@
 
 # languages = ['Python', 'Java', 'C++', 'French', 'C']
 # return_value = languages.pop(3)
-# print('Return Value:', return_value)
+# print('Poped', return_value)
 # print('Updated List:', languages)
 
 #3
@@ -27,6 +27,6 @@
 #5
 
 # nums = [1, 8, 2, 23, 7, -4, 18, 23, 42, 37, 2]
-# min( nums )
-# max( nums )
+# print(min( nums ))
+# print(max( nums ))
 
